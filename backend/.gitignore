@@ -1,0 +1,15 @@
+# Local environment
+.env
+.venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Tooling artifacts
+.pytest_cache/
+.ruff_cache/
+.coverage
+
+# Packaging artifacts
+bookwise_backend.egg-info/
