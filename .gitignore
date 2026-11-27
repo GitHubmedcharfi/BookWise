@@ -12,3 +12,8 @@ htmlcov/
 dist/
 build/
 *.egg-info/
+
+# Local AI agent skills (installed from official sources, not tracked)
+backend/.opencode/skills/fastapi/
+backend/.opencode/skills/postgresql/
+backend/.opencode/skills/redis/
